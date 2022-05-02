@@ -8,7 +8,7 @@
 
 ## Recent Projects : 
 * urCrypto (<a href="https://github.com/jluna101/ur-crypto-frontend">Frontend</a> / <a href="https://github.com/jluna101/ur-crypto-backend">Backend</a>)
-* Pomodoro (<a href="https://github.com/jluna101/Pomodoro-Frontend">Frontend</a> / <a href="hhttps://github.com/jluna101/Pomodoro-Backend">Backend</a>)
+* Pomodoro (<a href="https://github.com/jluna101/Pomodoro-Frontend">Frontend</a> / <a href="https://github.com/jluna101/Pomodoro-Backend">Backend</a>)
 * Blockchain Buzz (<a href="https://github.com/jluna101/Blockchain-Buzz">Frontend</a>)
 
 ## 🔧 Technologies & Tools:
